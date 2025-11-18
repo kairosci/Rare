@@ -231,3 +231,4 @@ rare.dist
 rare.bin
 rare.cmd
 rare.exe
+*.backup
